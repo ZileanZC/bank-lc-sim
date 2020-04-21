@@ -20,5 +20,7 @@ A simulator for a simple bank using the LendingClub public loan data set
 ### data
 Download the LendingClub data file `loan.csv` from the kaggle site https://www.kaggle.com/wendykan/lending-club-loan-data into the `./data/` directory (it is too large for git).
 
+Download the processed dataset file `data_df_backup.csv` from Google Drive https://drive.google.com/file/d/1t6qkXfVN7j3cWmLMvlkJYTPtHAy0snQd/view?usp=sharing into the `./data/` directory (it is a encoded dataset for neural network).
+
 ### play
 Use the notebooks in `./notebooks/` to prepare the data, build the classifier, and simulate the bank.
