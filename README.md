@@ -1,6 +1,7 @@
 # An Optimal Investment Strategy of Lending Club
 Sponsor:
 * `Alan King`
+
 Main Contributors:
 * `Zihan Chen`
 * `Chenyi Yang` 
