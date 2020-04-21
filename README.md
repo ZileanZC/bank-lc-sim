@@ -7,6 +7,7 @@ Main Contributors:
 * `Chenyi Yang` 
 * `Jie Qian` (https://github.com/jieqian2/bank-lc-sim)
 * `Yulong Wang` (https://github.com/wyyyl/bank-lc-sim)
+
 Cooperators:
 * `Heze Liu`
 * `Jiaqi Su`
